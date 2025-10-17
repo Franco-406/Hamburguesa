@@ -2,3 +2,15 @@
 margin: 0;
 padding: 0;
 }
+
+body{
+  font-size: larger;
+  background-color: #c8e4ff;
+}
+
+.nav{
+  background-color: black;
+  padding: 10px 20px;
+  font-family: Arial;
+}
+
